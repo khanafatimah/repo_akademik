@@ -12,8 +12,8 @@
     <h6>NIM : 23110016</h6><br>
     <h6>Nama : Khana Fatimah Darsono</h6><br>
     <h6>Ketua Kelas</h6>
-    <h6>NIM : 23110002</h6>
-    <h6>Joko Brillian</h6>
+    <h6>NIM : 23110024</h6>
+    <h6>Mass Fahri</h6>
     <h6>Tahun : 2025</h6>
     <a href="index.php">Kembali</a>
 </body>
